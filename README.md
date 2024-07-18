@@ -5,7 +5,7 @@ Here is the YouTube video that explains the code: https://youtu.be/aWstz-xUyJY
 
 pip install opencv-python mediapipe numpy matplotlib
 
-##Files
+<h2>Files</h2>
 
 
 The file **PoseLandMarks.ipynb** is the jupyter notebook file. 
