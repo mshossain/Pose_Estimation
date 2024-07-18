@@ -1,7 +1,7 @@
 # Pose Estimation Landmarks
 Here is the YouTube video that explains the code: https://youtu.be/aWstz-xUyJY
 
-**Required packages:**
+<h2>Required packages:</h2>
 
 pip install opencv-python mediapipe numpy matplotlib
 
